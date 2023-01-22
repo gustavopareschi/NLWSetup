@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app oara ajudar a rastrear os hábitos.
 
-- [Acesse o projeto finalizado, online](https://gustavopareschi.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://gustavopareschi.github.io/NLWSetup)
 
 ## 🔖 Layout
 
